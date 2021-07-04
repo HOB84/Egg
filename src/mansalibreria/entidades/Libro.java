@@ -8,4 +8,5 @@ public class Libro {
     private String titulo;
     private String atributo3;
     private String hernan;
+    private String hernanOrtiz;
 }
