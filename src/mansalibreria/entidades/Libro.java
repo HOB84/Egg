@@ -9,4 +9,6 @@ public class Libro {
     private String atributo3;
     private String hernan;
     private String hernanOrtiz;
+    private String hernanOrtizBandes;
+    
 }
